@@ -55,7 +55,7 @@ const Navbar = () => {
                 fontSize: '16px',
                 border: '1px solid white',
                 padding: '6px 12px',
-                '&:hover': { backgroundColor: '#39FF14', color: '#1E1E2F' }
+                '&:hover': { backgroundColor: '#FFA500', color: '#1E1E2F' }
               }}
             >
               Logout
