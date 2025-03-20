@@ -11,6 +11,18 @@
       "username": "1234",
       "password": "123456",
       "email": "admin@gmail.com"
+    },
+    {
+      "id": "f104",
+      "username": "123@gmail.com",
+      "password": "123",
+      "email": "123@gmill.com"
+    },
+    {
+      "id": "eeb8",
+      "username": "wasd",
+      "password": "wasd123",
+      "email": "wasd@gmail.com"
     }
   ]
 }
